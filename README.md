@@ -23,7 +23,8 @@ This web application is very well suited for a small institution, coaching and t
 ## 1. Student Module
 
 #### - Student Login
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/first.gif)
+![first](https://github.com/user-attachments/assets/b813dadf-1a2a-446c-83af-aa44d4373529)
+
 
 
 #### - Student Attendance Page
@@ -102,3 +103,4 @@ This web application is very well suited for a small institution, coaching and t
 <hr>
 
 So these were the three modules in this project!!!
+
