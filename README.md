@@ -21,69 +21,61 @@ This web application is very well suited for a small institution, coaching and t
 ## Screenshots and GIFs
  
 ## 1. Student Module
-![Image](https://github.com/user-attachments/assets/4a459644-23f7-462d-a82a-082710218fe1) 
+![first](https://github.com/user-attachments/assets/3a41e349-f980-4948-a8ec-55e83924af6c)
 
 #### - Student Login
 ![first](https://github.com/user-attachments/assets/b813dadf-1a2a-446c-83af-aa44d4373529)
 
 
-
 #### - Student Attendance Page
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/second.gif)
-
-
-#### - Student Notice Page
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/third.gif)
-
+![second](https://github.com/user-attachments/assets/1cdf4c2c-722c-47f5-8eb6-743bd47ceb89)
 
 #### - Student Marks Page
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/fourth.gif)
+![fourth](https://github.com/user-attachments/assets/c879313c-8114-4a4e-ac1a-5dced3d5323d)
+
 
 
 ### - Student Course Registration Page
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/fifth.gif)
-
+![fifth](https://github.com/user-attachments/assets/a299dcc3-df44-406c-8f47-31aa21d68fea)
 
 ### - Student Chat Room
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/sixth.gif)
+![sixth](https://github.com/user-attachments/assets/fa0e0906-ded3-41dc-87bc-da0e79a5aed0)
 
 <hr>
 
 ## 2. Faculty Module
 
 ### - Faculty Login
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/f1.gif)
+![f1](https://github.com/user-attachments/assets/e7813ee5-c9a4-4648-8b7f-325f0277edf2)
 
 
 ### - Faculty Upload Attendance 
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/f2.gif)
+![f2](https://github.com/user-attachments/assets/8cc8ea73-a0a9-491f-83e5-8f33a57d8902)
 
 
 ### - Faculty Upload Marks
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/f3.gif)
+![f3](https://github.com/user-attachments/assets/ff173f43-5c3f-4352-a499-0feaae77ec69)
 
 
 ### - Faculty Chat Room
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/f4.gif)
+![f4](https://github.com/user-attachments/assets/cb3a8537-fc6f-4b9f-a1cd-6c6568e728d5)
 
 <hr>
 
 ## 3. Admin (Owner) Module
 
 ### - Admin Login
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a1.gif)
+![a1](https://github.com/user-attachments/assets/0a26a582-369e-48e0-848d-026c5963f4b8)
 
 
 ### - Student Registration Form
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a2.gif)
+![a2](https://github.com/user-attachments/assets/92a195db-eabe-450f-ac54-13ac6783e99e)
 
 
 ### - Faculty Registration Form
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a3.gif)
 
+![a3](https://github.com/user-attachments/assets/4ed01f1f-3207-499a-bbbd-429b7d880434)
 
-### - Notices Uploaded
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a4.gif)
 
 
 ### - Updation of Student Details
@@ -104,6 +96,7 @@ This web application is very well suited for a small institution, coaching and t
 
 
 So these were the three modules in this project!!!
+
 
 
 
