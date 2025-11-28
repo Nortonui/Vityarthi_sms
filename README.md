@@ -87,22 +87,23 @@ This web application is very well suited for a small institution, coaching and t
 
 
 ### - Updation of Student Details
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a5.gif)
+![a5](https://github.com/user-attachments/assets/41844845-4541-4b2e-96ea-7bfc1c0a3149)
 
 
 ### - Updation of Faculty Details
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a6.gif)
+![a6](https://github.com/user-attachments/assets/bacc604f-4c83-4c28-82c5-2a805b95238f)
+
 
 
 ### - New Course Registration Form
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a7.gif)
+![a7](https://github.com/user-attachments/assets/183ccb10-392b-43c1-9b8b-7252068c1840)
 
 
-### - Course Details
-![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a8.gif)
+### - Course Detail
+![a8](https://github.com/user-attachments/assets/693cd767-1997-4ce6-98d5-70f44691a925)
 
-<hr>
 
 So these were the three modules in this project!!!
+
 
 
