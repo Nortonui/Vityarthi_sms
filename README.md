@@ -21,6 +21,7 @@ This web application is very well suited for a small institution, coaching and t
 ## Screenshots and GIFs
  
 ## 1. Student Module
+![Image](https://github.com/user-attachments/assets/4a459644-23f7-462d-a82a-082710218fe1) 
 
 #### - Student Login
 ![first](https://github.com/user-attachments/assets/b813dadf-1a2a-446c-83af-aa44d4373529)
@@ -103,4 +104,5 @@ This web application is very well suited for a small institution, coaching and t
 <hr>
 
 So these were the three modules in this project!!!
+
 
